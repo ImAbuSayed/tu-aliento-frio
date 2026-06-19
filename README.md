@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-frio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu aliento frío, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
+| **Get License** | [Get License For Tu aliento frío, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3692)
+- [Telegram](https://t.me/AbuSayedMusic/3693)
 
 ---
 
