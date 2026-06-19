@@ -1,4 +1,4 @@
-# Tu aliento frío
+# Tu aliento frío, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu aliento frío |
+| **Title** | Tu aliento frío, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-frio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tu aliento frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
+| **Get License** | [Music Rights & Licensing for Tu aliento frío, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,9 +115,9 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `deeb4551ca95b09bb4a3f1264c010ef20a337f46664c3fb864eeddb0a86ca5a4` |
-| **Timestamp** | June 19, 2026 |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `0f1f3cc511dd84540d7def766bf7008059300ed8a16756a21062bc2ab6e15209` |
+| **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
