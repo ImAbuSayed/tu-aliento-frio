@@ -1,4 +1,4 @@
-# Tu aliento frío
+# Tu aliento frío, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu aliento frío |
+| **Title** | Tu aliento frío, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-frio/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu aliento frío](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
+| **Get License** | [Get License For Tu aliento frío, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-frio/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me acerco lento y siento tu respiración
+> Ese aliento frío enciende mi pasión
+> Tú y yo perdiéndonos en la oscuridad
+> Esta noche entera es de pura maldad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `deeb4551ca95b09bb4a3f1264c010ef20a337f46664c3fb864eeddb0a86ca5a4` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

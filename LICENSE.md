@@ -1,6 +1,6 @@
 # License
 
-**Tu aliento frío**
+**Tu aliento frío, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
